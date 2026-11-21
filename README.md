@@ -33,8 +33,11 @@ Buyers can browse available products and place orders directly with farmers. AI 
 The platform also supports GPS-based route planning and drone-assisted delivery to approved collection points wherever practical.
 
 How it addresses the problem:
+
 1.Reduces dependency on multiple intermediaries.
+
 2.Connects farmers directly with buyers.
+
 3.Improves price transparency.
 4.Provides access to wider markets.
 5.Reduces unnecessary delivery delays.
@@ -87,18 +90,26 @@ Technological Benefits: The solution introduces AI-based buyer matching, GPS-bas
 
 Agricultural Benefits: FarmFly helps farmers access wider markets, understand product demand and improve agricultural distribution. It also encourages the adoption of modern technologies and supports better post-harvest management.
 
- Expected Project Outcomes
+ Expected Project Outcomes:
+ 
 The expected outcome of FarmFly is to create a transparent digital marketplace that connects farmers directly with buyers. The platform aims to improve farmers' market access, provide consumers with convenient purchasing options and improve agricultural product distribution. AI-based matching and demand forecasting can support better decisions, while GPS tracking can improve delivery visibility. Drone-assisted delivery can be explored for suitable products and approved locations. Overall, the project aims to contribute to agricultural development, rural entrepreneurship and efficient supply-chain management.
 
 ## Research and References
-References and Research Work
+References and Research Work:
+
 The development of FarmFly is supported by research into existing digital agricultural marketplaces, farmer welfare initiatives, drone technology, logistics and food supply chains. The National Agriculture Market (e-NAM) provides useful information about digital agricultural trading and connecting farmers with markets. The Open Network for Digital Commerce (ONDC) provides a reference for digital marketplace infrastructure. The Ministry of Agriculture and Farmers Welfare provides information about agricultural development and farmer welfare schemes. The Directorate General of Civil Aviation (DGCA) provides information about drone safety and applicable regulations in India. The Food and Agriculture Organization (FAO) provides research on agricultural supply chains, food security and post-harvest losses. Research into Farmer Producer Organizations also helps us understand collective marketing and how farmers can improve their bargaining power.
 
 Reference websites:
-National Agriculture Market (e-NAM)⁠
-Open Network for Digital Commerce⁠
-Ministry of Agriculture and Farmers Welfare⁠
-Directorate General of Civil Aviation⁠
-DigitalSky Platform⁠
-Food and Agriculture Organization⁠
-Press Information Bureau⁠
+
+National Agriculture Market (e-NAM),⁠
+Open Network for Digital Commerce,⁠
+Ministry of Agriculture and Farmers Welfare,⁠
+Directorate General of Civil Aviation,⁠
+DigitalSky Platform,⁠
+Food and Agriculture Organization,⁠
+Press Information Bureau⁠.
+
+<img width="1290" height="860" alt="WhatsApp Image 2026-11-21 at 8 54 08 PM" src="https://github.com/user-attachments/assets/b28d2c80-4b51-4bbc-b121-2c5438401b4c" />
+
+Our Vision: A future where every farmer can reach every buyer without unnecessary intermediaries.
+Connecting Farms. Empowering Farmers. Delivering the Future.
