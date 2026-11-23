@@ -26,7 +26,10 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Detailed explanation
+Project Name:Farm Fly-Drone based crop Delivery
+
+Detailed explanation:
+
 FarmFly provides a common digital platform where farmers can register, list their agricultural products, mention quantities and set selling prices.
 Buyers can browse available products and place orders directly with farmers. AI helps match farmers with suitable buyers based on product availability, location, quantity and demand
 .
